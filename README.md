@@ -1,5 +1,5 @@
 # eartherm.flirstreaming.pp
-![This is an image](ic_launcher.png)
+![This is an image](ic_launcher-playstore.png)
 
 Last Updated: 07/25/2023
 
