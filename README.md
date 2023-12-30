@@ -5,11 +5,7 @@ Last Updated: 30/12/2023
 
 # Privacy Policy for Mobile Application
 This privacy policy governs your use of the software application **EarTherm** that was
-developed by **Mobile Toys & Tools (MTAT)** for mobile devices. The application detects
-objects in motion by using a FLIR thermal camera. The application plays sound and plots it
-on the screen optionally if there is a motion detected. The application can use the thermal
-picture obtained by a FLIR thermal camera therefore runs day and night without any need to
-visible light.
+developed by **Mobile Toys & Tools (MTAT)** for mobile devices. **EarTherm** performs Elevated Body Temperature (EBT) scan using human ear. **EarTherm** detects human ear region in the thermal camera field of view using AI and reads camera maximum temperature value in that ear region. **EarTherm** compares the ear temperature with a user defined temperature threshold and generates EBT alarm if the temperature is higher than the threshold. **EarTherm** detects outlier ear temperature comparing the ear temperature value with the last past ear temperature values. **EarTherm** generates EBT alarm if the current ear temperature value deviates from last ear temperature samples mean by the user specified threshold value.
 
 # What information does the Application obtain and how is it used?
 ## Camera Information
